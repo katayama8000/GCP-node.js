@@ -7,3 +7,11 @@
 ---
 
 https://katayama8000-q4tcbuvapa-an.a.run.app/
+
+---
+
+# todo
+
+- [o] cloud run に上げる
+- [-] firebase と同期
+- [-] secure manager で環境変数を設定
