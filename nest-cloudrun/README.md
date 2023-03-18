@@ -11,3 +11,5 @@
 `gcloud run deploy nest-cloudrun --source .`
 
 https://www.youtube.com/watch?v=ZmfDlUAokYc
+
+- サービスアカウントと紐付ける
