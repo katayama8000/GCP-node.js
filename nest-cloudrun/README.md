@@ -13,3 +13,4 @@
 https://www.youtube.com/watch?v=ZmfDlUAokYc
 
 - サービスアカウントと紐付ける
+  - https://cloud.google.com/sdk/gcloud/reference/projects/add-iam-policy-binding
