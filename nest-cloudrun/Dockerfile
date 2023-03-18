@@ -10,7 +10,7 @@ WORKDIR /app
 COPY package.json . 
 # dependenciesのみをインストール
 RUN npm install --only=production
-ENV PORT=80
-EXPOSE $PORT
+EXPOSE 80
+ENV PORT 80
 COPY --from=build /app/dist ./dist
 CMD npm run start:prod
